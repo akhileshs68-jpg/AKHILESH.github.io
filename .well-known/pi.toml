@@ -1,0 +1,8 @@
+VERSION="2.0"
+
+[[CURRENCIES]]
+code="AKH1"
+issuer="GAPUS5HCYBE2BNLIWWVYAM6WBVTN6ZPBF4ELQHS4Y6HRESPOOMRVGYWL"
+name="LTV"
+desc="Official Pi Testnet Token"
+image="https://akhilesh.github.io/token/logo.png"
